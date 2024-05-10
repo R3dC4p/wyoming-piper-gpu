@@ -7,3 +7,5 @@ python3 -m wyoming_piper \
     --data-dir /data \
     --data-dir /share/piper \
     --download-dir /data "$@"
+    --voice en_GB-alba-medium
+    --cuda
